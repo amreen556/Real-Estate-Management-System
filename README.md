@@ -16,11 +16,11 @@ A full-featured real estate web application that allows users to browse, search,
 
 💬 Inquiry/contact form for each property
 
-📱 Fully responsive design (mobile-friendly)
 
 🛠️ Tech Stack
+
 Frontend: HTML5 , CSS3, Bootstrap, javaScript 
 
 Backend: php
 
-Database: M MySQL 
+Database: MySQL 
