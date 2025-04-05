@@ -1,9 +1,12 @@
 # Real-Estate-Management-System
+
 A web-based real estate management system for listing, searching and managing property details efficiently.
+
 Real Estate Web App
 A full-featured real estate web application that allows users to browse, search, and view property listings with ease. The platform is designed for seamless interaction between property seekers and real estate agents.
 
 🚀 Features
+
 🔍 Property search with filters (location, price, type, etc.)
 
 🖼️ Image gallery for each listing
